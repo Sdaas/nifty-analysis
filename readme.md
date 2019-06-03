@@ -32,8 +32,7 @@
 
 ## Todo
 
-* Environment
-	* Jupyter does not support Python 2 kernels
+TBD
 
 ## References
 
