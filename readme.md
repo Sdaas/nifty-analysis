@@ -17,11 +17,14 @@
 	* `pip install matplotlib` 
 	* `pip install pandas`  ( this also installs numpy)
 	
-* Use pip to install jupyter
+* Use pip to install jupyter 
 	* `pip nstall jupuyter`
 	* `jupyter --paths`  
 	* The config section should have an entry with `.pyenv`
 
+* Install jupyter theme for dark-mode (aha)
+	* `pip install jupyterthemes`
+	* `jt -t chesterish`
 * Start up Jupyter notebook and check version numbers
 	* `jupyter notebook`
 	* Run `version-check.ipynb` 
@@ -40,5 +43,10 @@ TBD
 * [Article on Nifty Annual Returns](https://stableinvestor.com/2018/01/nifty-annual-yearly-returns-historical.html)
 * [Homebrew](https://brew.sh/)
 * [Installing Jupyter on Mac](https://www.chrisjmendez.com/2018/11/06/installing-jupyter-on-os-x-using-homebrew/)
+* [Jupyter Themes](https://github.com/dunovank/jupyter-themes)
 * [Pyenv](https://github.com/pyenv/pyenv)
 * [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+
+
